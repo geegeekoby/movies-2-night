@@ -1,0 +1,8 @@
+{
+  "name": "MOVIES2NIGHT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "39d8fb6d"
+}
